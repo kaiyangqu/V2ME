@@ -1,4 +1,4 @@
 # V2ME
 [INTERSPEECH 2024] THE EVALUATION OF VIDEO-TO-MUSIC GENERATION: SIMILARITY, ARTISTRY AND SAFETY
 
-code and dataset will be released soon.
+Code and dataset will be released soon.
